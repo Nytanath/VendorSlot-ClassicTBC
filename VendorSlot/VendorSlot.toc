@@ -1,0 +1,6 @@
+## Interface: 20503
+## Title: VendorSlot
+## Notes: Attempt to make vendor item sort fixes easier
+## SavedVariables: VendorSlotTable
+
+VendorSlot.lua
